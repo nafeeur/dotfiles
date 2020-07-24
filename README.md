@@ -1,1 +1,1 @@
-#I3wm Dotfiles
+#i3wm Dotfiles
