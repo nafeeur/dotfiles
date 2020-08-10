@@ -1,1 +1,1 @@
-#i3wm Dotfiles
+#My Arch Dotfiles
