@@ -1,1 +1,1 @@
-#Arch-i3 System Dotfiles
+#Arch-i3 Linux Dotfiles
